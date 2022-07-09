@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "drip-tags-to-mailerlite-groups"
+version = "0.1.0"
+description = "Converts tags in a people export CSV from Drip to groups in your MailerLite account"
+authors = ["Devon Campbell <devon@radworks.io>"]
+license = "GPLv3"
+
+[tool.poetry.dependencies]
+python = "^3.9"
+requests = "^2.28.1"
+python-dotenv = "^0.20.0"
+pandas = "^1.4.3"
+
+[tool.poetry.dev-dependencies]
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"

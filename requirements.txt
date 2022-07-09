@@ -1,0 +1,11 @@
+certifi @ file:///Users/raddevon/Library/Caches/pypoetry/artifacts/b0/0d/df/4aa04d9b421fc5f1438b55d4b37516d21ef0ba40158bf7f9dfb28122ca/certifi-2022.6.15-py3-none-any.whl
+charset-normalizer @ file:///Users/raddevon/Library/Caches/pypoetry/artifacts/bf/59/3f/6838dadc818c6595ae4a00c31af0da89039c1eaa370871d38072845e8d/charset_normalizer-2.1.0-py3-none-any.whl
+idna @ file:///Users/raddevon/Library/Caches/pypoetry/artifacts/d5/04/80/9c17fd3240a37d12ff2ef042b0306aeb1abd2d8b95f150fd60be938352/idna-3.3-py3-none-any.whl
+numpy @ file:///Users/raddevon/Library/Caches/pypoetry/artifacts/9a/9c/c1/8bb883e44ce8ac2fbf479b970b0fa327adf2853d9f0a2f890169d6192e/numpy-1.23.0-cp39-cp39-macosx_10_9_x86_64.whl
+pandas @ file:///Users/raddevon/Library/Caches/pypoetry/artifacts/69/f2/ca/922f2b47c07835a5acaa7c022f484cb26acfb670ec7d65480e48dd446b/pandas-1.4.3-cp39-cp39-macosx_10_9_x86_64.whl
+python-dateutil @ file:///Users/raddevon/Library/Caches/pypoetry/artifacts/53/f8/2a/7d63ce15df7386e9536e83413453f8aa845b47fb425f05c4ca2fb231c3/python_dateutil-2.8.2-py2.py3-none-any.whl
+python-dotenv @ file:///Users/raddevon/Library/Caches/pypoetry/artifacts/26/7d/fc/00dba3061e0311441e0aa6225a9b3e9bca3485a9fefe7282a4cce094c5/python_dotenv-0.20.0-py3-none-any.whl
+pytz @ file:///Users/raddevon/Library/Caches/pypoetry/artifacts/fb/60/46/e704d81037c87ab74c6677ae79ab43dda85c31e3ae38f53c44486b593a/pytz-2022.1-py2.py3-none-any.whl
+requests @ file:///Users/raddevon/Library/Caches/pypoetry/artifacts/96/68/40/1b2019f1ca6a6d07b2a3107daab4dca1e11111be3af28a435f7cd0463a/requests-2.28.1-py3-none-any.whl
+six @ file:///Users/raddevon/Library/Caches/pypoetry/artifacts/08/9f/47/c16ae03035fc69eaf100ea39657a49baaeef714e25a52575710c34cd48/six-1.16.0-py2.py3-none-any.whl
+urllib3 @ file:///Users/raddevon/Library/Caches/pypoetry/artifacts/86/4a/ad/37e91024d94f8218fc54b1fbb58b71888f53c1636daeb28593fa254ed2/urllib3-1.26.9-py2.py3-none-any.whl
